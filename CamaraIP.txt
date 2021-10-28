@@ -1,0 +1,14 @@
+Camara IP
+
+Instalar el componente LocalServiceComponents.exe antes de comenzar con la transmisión
+
+IP 192.168.137.20 - Camara IP
+
+usuario: admin
+Contraseña: TUMI12345
+
+Recuperacion de contraseña: - Todas las respuestas son "TUMI", y va al correo afsegovia@pucp.pe
+
+Para Activar la función PTZ de la camara utilizar PruebaPTZv3 y habilitar en
+Configuracion - Sistema - Seguridad - Autenticacion RTSP - digest/basic
+Autenticacion WEB - digestBasic

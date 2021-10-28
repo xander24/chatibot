@@ -1,0 +1,5 @@
+Configurar la direccion IP con computador para ser 192.168.137.5
+Configurar la camara PTZ de acuerdo a lo indicado por Alexander
+Descargar las librerias faltantes en la toughbook - pip3 install requests, pip3 install os
+Copiar el archivo magnus en el escritorio del explora
+Proceder igual que antes
